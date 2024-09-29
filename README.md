@@ -12,7 +12,7 @@ This is a simple translation tool built using Python, Tkinter for the graphical 
 
 ## Requirements
 
-### Install required libraries:
-The code requires the following Python libraries:
+Install required libraries by the following command:
 ```bash
 pip install -r requirements.txt
+
