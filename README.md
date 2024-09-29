@@ -1,5 +1,3 @@
-# Python code to generate a README file
-
 # Korean-English Translation Tool
 
 ## Introduction
